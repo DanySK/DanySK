@@ -13,6 +13,8 @@ More information about me (including my CV) are available on [my personal web pa
 
 > Measure, don't guess.
 
+> All models are wrong, but some are useful
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">we never have the money to do it right but somehow we always have the fucking money to do it twice</p>&mdash; UserInputSucks (@UserInputSucks) <a href="https://twitter.com/UserInputSucks/status/1132904286415929345?ref_src=twsrc%5Etfw">May 27, 2019</a></blockquote>
 
 ### Random GitHub stats
