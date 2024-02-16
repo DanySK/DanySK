@@ -1,6 +1,6 @@
 ## Danilo Pianini
 
-Postdoctoral researcher at the University of Bologna,
+Senior assistant professor at the University of Bologna,
 chief architect of the Alchemist Simulator and the Protelis aggregate programming language,
 lead developer of dozens of open source libraries,
 and author of several scientific publications.
