@@ -1,5 +1,7 @@
 ## Danilo Pianini
 
+![](https://komarev.com/ghpvc/?username=danysk&style=for-the-badge)
+
 Senior assistant professor at the University of Bologna,
 chief architect of the Alchemist Simulator and the Protelis aggregate programming language,
 lead developer of dozens of open source libraries,
