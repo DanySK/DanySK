@@ -19,6 +19,7 @@ More information about me (including my CV) are available on [my personal web pa
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">we never have the money to do it right but somehow we always have the fucking money to do it twice</p>&mdash; UserInputSucks (@UserInputSucks) <a href="https://twitter.com/UserInputSucks/status/1132904286415929345?ref_src=twsrc%5Etfw">May 27, 2019</a></blockquote>
 
+<!--
 ### Random GitHub stats
 
 <div align="center">
@@ -32,9 +33,8 @@ More information about me (including my CV) are available on [my personal web pa
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanySK&hide=html,css,xslt,makefile&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</div>
-  
-<!--
+</div>  
+
 **DanySK/DanySK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
