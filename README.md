@@ -19,8 +19,11 @@ More information about me (including my CV) are available on [my personal web pa
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">we never have the money to do it right but somehow we always have the fucking money to do it twice</p>&mdash; UserInputSucks (@UserInputSucks) <a href="https://twitter.com/UserInputSucks/status/1132904286415929345?ref_src=twsrc%5Etfw">May 27, 2019</a></blockquote>
 
-<!--
 ### Random GitHub stats
+
+[![Danilo Pianini's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DanySK&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+<!--
 
 <div align="center">
   
