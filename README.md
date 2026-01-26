@@ -2,12 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=danysk&style=for-the-badge)
 
-Senior assistant professor at the University of Bologna,
+Associate professor at the University of Bologna,
 chief architect of the Alchemist Simulator and the Protelis aggregate programming language,
 lead developer of dozens of open source libraries,
 and author of several scientific publications.
 
-More information about me (including my CV) are available on [my personal web page](https://danysk.github.io).
+More information about me (including my CV) are available on [my UniBo web page](https://www.unibo.it/sitoweb/danilo.pianini/en) and [my personal web page](https://danysk.github.io).
 
 ### Mottos
 
